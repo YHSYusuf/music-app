@@ -105,7 +105,7 @@ function updatePlayPauseIcon() {
 }
 
 function updateSongInfo() {
-    songInfo.textContent = `Playing: ${songs[currentIndex].name} (${formatTime(audio.currentTime)} / ${audio.duration ? formatTime(audio.duration) : '0:00'})`;
+    songInfo.textContent = `Çalan Şarkı: ${songs[currentIndex].name} (${formatTime(audio.currentTime)} / ${audio.duration ? formatTime(audio.duration) : '0:00'})`;
 }
 
 function formatTime(seconds) {
