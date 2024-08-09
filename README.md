@@ -3,7 +3,6 @@
 Müzik dinlemeyi sevenler için basit Müzik Çalar Uygulaması'dır. İstediğiniz gibi kullanabilirsiniz.
 
 **Tek Şart;**
-
 "Ben Yaptım!" demeyin.
 
 İyi Kullanımlar.💖
