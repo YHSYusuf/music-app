@@ -31,7 +31,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    overflow-y: auto;
+    overflow-y: none;
     animation: slideInLeft 1s ease-in-out;
 }
 
